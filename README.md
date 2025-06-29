@@ -1,7 +1,7 @@
 # HORIZON-FOCUS
 This is a demonstration of a windows-based keylogger written in C.
 
-NOTE: This project is intended for review purposes ONLY. Additionally, this project will not perform as intended due to a multitude of important files missing.
+NOTE: This project is intended for review purposes ONLY. Additionally, this project will not perform as intended due to a multitude of important files missing. This project was also designed for EDUCATION PURPOSES ONLY.
 
 # Project Description
 
