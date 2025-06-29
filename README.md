@@ -18,3 +18,9 @@ https://youtu.be/u_iNogQ4kBU
 
 The project is a demonstration of my technical abilities (coding) and soft skills (communication and reflection). The project highlights my ability to create a product that exploits a security flaw in a unique way - through the emailing system and obfuscating the code using the champion array. In addition to this, the project shows in-depth understanding of a users interactions with the malware itself, through hiding the malware inside of an executable, hiding the location of the data and information files and implementing a XOR cipher to mask the contents of the file. Furthermore, it shows my knowledge of basic system security and ways to bypass this (employment of native OS API's and non-suspicious emailing system).
 The project further demonstrates my soft skills through the report / reflection video. The video itself contains a digestable summary of what the project does and how it works. In addition to this, the video contains a reflection on the development of the project, my awareness of flaws throughout development and the ways I tried to combat / work around these flaws. Furthermore, the project video demonstrates video editing skills I have developed.
+
+# File Descriptions
+
+- decrypt_files.exe assumes that both the info.txt and data.txt files are within the same folder
+- startup.c is used to create the link between the desired executable (in this case, a game called CS Flowers) and the keylogger
+- klog.c is the actual malware file
